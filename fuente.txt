@@ -1,0 +1,18 @@
+[ "data",
+  [ "table",
+    { "id" : "persona" },
+    [ "column",
+      { "id" : "ci" },
+      "1490175"
+    ],
+    [ "column",
+      { "id" : "nombre" },
+      "Julio Paciello"
+    ]
+  ],
+  [ "sql",
+    { "id" : "select_all" },
+    "select * from persona order by ci"
+  ]
+]
+
